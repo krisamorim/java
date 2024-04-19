@@ -1,4 +1,4 @@
-public class leson073switchCase {
+public class leson07ConditionalSwitchCase {
     public static void main(String[] args) {
         var gender = "X";
 

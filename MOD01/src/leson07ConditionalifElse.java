@@ -1,5 +1,5 @@
 
-public class leson071ifElse {
+public class leson07ConditionalifElse {
     public static void main(String[] args) {
         int ageToGetInRollerCoast = 18;
         float heightToGetOnRollerCoast = 1.5F;

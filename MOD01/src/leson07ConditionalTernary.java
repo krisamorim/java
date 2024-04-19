@@ -1,4 +1,4 @@
-public class leson072ternary {
+public class leson07ConditionalTernary {
     public static void main(String[] args) {
         String jobTitle = "PM";
         String msgOK = "You're approved";
