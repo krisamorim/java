@@ -7,10 +7,10 @@ public class leson04TypesArrayMutidimanetional {
 
         var count = 1;
         for (int[] num : numbers){// it's necessary inform []
-            System.out.println("Group "+count+":");
+            System.out.print("\nGroup "+count+": ");
             count++;
             for(int n : num){
-                System.out.println(n);
+                System.out.print(n+ " ");
             }
         }
     }
