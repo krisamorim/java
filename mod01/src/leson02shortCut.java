@@ -6,5 +6,6 @@ public class leson02shortCut {
         System.out.println("CTRL+SHIFT+F10 to RUN");
         System.out.println("CTRL+K to COMMIT");
         System.out.println("CTRL+SHIFT+K to PUSH");
+        System.out.println("CTRL+ALT+o optimize imports");
     }
 }
