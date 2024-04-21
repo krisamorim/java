@@ -7,5 +7,6 @@ public class leson02shortCut {
         System.out.println("CTRL+K to COMMIT");
         System.out.println("CTRL+SHIFT+K to PUSH");
         System.out.println("CTRL+ALT+o optimize imports");
+        System.out.println("CTRL+D duplicate");
     }
 }

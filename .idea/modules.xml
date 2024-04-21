@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod01/mod01.iml" filepath="$PROJECT_DIR$/mod01/mod01.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod02Object-oriented/mod02Object-oriented.iml" filepath="$PROJECT_DIR$/mod02Object-oriented/mod02Object-oriented.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mod03calculator/mod03calculator.iml" filepath="$PROJECT_DIR$/mod03calculator/mod03calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod03calculator/mod03calculatorWitReturn.iml" filepath="$PROJECT_DIR$/mod03calculator/mod03calculatorWitReturn.iml" />
     </modules>
   </component>
 </project>
