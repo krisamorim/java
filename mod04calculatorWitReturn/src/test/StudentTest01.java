@@ -1,0 +1,24 @@
+package test;
+
+import domain.PrintStudent;
+import domain.Student;
+
+
+public class StudentTest01 {
+    public static void main(String[] args) {
+        Student student01 = new Student();
+        student01.name = "Kris";
+        student01.age = 40;
+        student01.gender = 'M';
+
+        Student student02 = new Student();
+        student02.name = "Anna";
+        student02.age = 37;
+        student02.gender = 'F';
+
+        PrintStudent printer = new PrintStudent();
+        printer.printStu(student01);
+        printer.printStu(student02);
+
+    }
+}
