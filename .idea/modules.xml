@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/mod02Object-oriented/mod02Object-oriented.iml" filepath="$PROJECT_DIR$/mod02Object-oriented/mod02Object-oriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod03calculator/mod03calculatorWitReturn.iml" filepath="$PROJECT_DIR$/mod03calculator/mod03calculatorWitReturn.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod05usingThis/mod05usingThis.iml" filepath="$PROJECT_DIR$/mod05usingThis/mod05usingThis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod06calculatorWithVarArgs/mod06calculatorWithVarArgs.iml" filepath="$PROJECT_DIR$/mod06calculatorWithVarArgs/mod06calculatorWithVarArgs.iml" />
     </modules>
   </component>
 </project>
