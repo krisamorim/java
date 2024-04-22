@@ -19,6 +19,11 @@ public class Calculator {
         }else {
             return n1/n2;
         }
+    }
 
-    };
+    public void alterarValor(int n1, int n2) {
+        n1 =10;
+        n2=20;
+        System.out.println("1st number now is "+n1+"\n2nd numbar now is "+n2);
+    }
 }
