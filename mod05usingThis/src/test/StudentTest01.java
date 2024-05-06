@@ -11,7 +11,7 @@ public class StudentTest01 {
 
         Student student02 = new Student();
         student02.name = "Anna";
-        student02.age = 40;
+        student02.age = 37;
         student02.gender = 'F';
 
         student01.prints();
